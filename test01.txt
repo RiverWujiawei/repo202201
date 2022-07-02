@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new brance dev1 create a new file
+=======
+new branch dev2 中文  create a new file 
+>>>>>>> dev2
